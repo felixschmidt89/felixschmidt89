@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, literature, movies & sports.
 - 🌱 I’m a web dev student at DCI learning HTML, CSS, JavaScript, React and Node.js to become a (Full Stack) Web Developer.
 - :computer: Check out my first projects:
-  1. User Interface Basics: HTML, CSS, SASS, Bootstrap
+  1. User Interface Basics: HTML, CSS, Sass, Bootstrap
   - https://uib-final-project.netlify.app/
   - https://uib-final-project-bootstrap-version.netlify.app/
 - 📫 How to reach me: felix.schmidt@protonmail.com
