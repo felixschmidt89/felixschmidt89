@@ -5,4 +5,6 @@
   1. User Interface Basics (HTML, CSS, Sass, Bootstrap):
   - https://uib-final-project.netlify.app/
   - https://uib-final-project-bootstrap-version.netlify.app/
+  2. Programming Basics(HTML, CSS, Vanilla JavaScript):
+  - https://vanillatasks.netlify.app/ 
 - 📫 How to reach me: felix.schmidt@protonmail.com
