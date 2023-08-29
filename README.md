@@ -4,7 +4,7 @@
 
 ## About me
 
-- 👨🏻‍💻 I have a professional background in Product and am currently transitioning to Tech.
+- 👨🏻‍💻 I have a professional background in Product and am transitioning to Tech.
 - 🧑‍🏫 I'm currently enrolled in a 1-year-intensive course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) to become a Full-Stack Web Developer (MERN-Stack).
 
 ## Technologies
