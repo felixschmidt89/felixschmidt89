@@ -21,9 +21,9 @@
 
 ## Tools
 
-[Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-[Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![WebTranslateIt](https://img.shields.io/badge/WebTranslateIt-4E4E4E?style=for-the-badge)
@@ -31,13 +31,16 @@
 ## Check out my first projects
 
 1. **User Interface Basis (HTML5, CSS3, Sass, Bootstrap)**
+
 - [Personal website](https://uib-final-project.netlify.app/)
 - [Personal website (Bootstrap version)](https://uib-final-project-bootstrap-version.netlify.app/)
+
 2. **Programming Basics (HTML, CSS, Vanilla JavaScript):**
 
 - [VanillaTasks (To-Do-Application)](https://vanillatasks.netlify.app/)
 
 3. **Single Page Application (React):**
+
 - [Pomodofy (Pomodoro-Technique SPA)](https://pomodofy.netlify.app/)
 
 ## 📫 Reach me on
