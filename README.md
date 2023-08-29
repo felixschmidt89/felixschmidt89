@@ -2,9 +2,10 @@
 
 # 👋 Hi, I’m @felixschmidt89 based in Berlin, Germany.
 
-    👨🏻‍💻 I have a professional background in Product and am currently transitioning to Tech.
+## About me
 
-    🧑‍🏫 I'm currently enrolled in a 1-year-intensive course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) to become a Full-Stack Web Developer (MERN-Stack).
+- 👨🏻‍💻 I have a professional background in Product and am currently transitioning to Tech.
+- 🧑‍🏫 I'm currently enrolled in a 1-year-intensive course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) to become a Full-Stack Web Developer (MERN-Stack).
 
 ## Technologies
 
@@ -44,4 +45,4 @@
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:felix.schmidt@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixschmidt89/)
-[![Xing](https://img.shields.io/badge/Xing-%230068AD.svg?style=for-the-badge&logo=xing&logoColor=white)](www.xing.com/profile/Felix_Schmidt083460)
+[![Xing](https://img.shields.io/badge/Xing-%230068AD.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Felix_Schmidt083460)
