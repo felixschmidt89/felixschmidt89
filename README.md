@@ -28,22 +28,22 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![WebTranslateIt](https://img.shields.io/badge/WebTranslateIt-4E4E4E?style=for-the-badge)
 
-## Check out my first projects
+## Explore my initial projects
 
 1. **User Interface Basis (HTML5, CSS3, Sass, Bootstrap)**
 
-- [Personal website](https://uib-final-project.netlify.app/)
-- [Personal website (Bootstrap version)](https://uib-final-project-bootstrap-version.netlify.app/)
-
+- [Personal website](https://uib-final-project.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_UIB_final-project)
+- [Personal website (Bootstrap version)](https://uib-final-project-bootstrap-version.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_UIB_final-project-bootstrap)
+ 
 2. **Programming Basics (HTML, CSS, Vanilla JavaScript):**
 
-- [VanillaTasks (To-Do-Application)](https://vanillatasks.netlify.app/)
+- [VanillaTasks (To-Do-Application)](https://vanillatasks.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_PB_VanillaTasks)
 
 3. **Single Page Application (React):**
 
-- [Pomodofy (Pomodoro-Technique SPA)](https://pomodofy.netlify.app/)
+- [Pomodofy (Pomodoro-Technique SPA)](https://pomodofy.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_SPA_pomodofy)
 
-## 📫 Reach me on
+## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:felix.schmidt@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixschmidt89/)
