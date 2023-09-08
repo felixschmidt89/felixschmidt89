@@ -41,7 +41,7 @@
 
 3. **Single Page Application (React):**
 
-- [Pomodofy (Pomodoro-Technique SPA)](https://pomodofy.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_SPA_pomodofy)
+- [Pomodofy (Pomodoro Technique Client-side Only SPA)](https://pomodofy.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_SPA_pomodofy)
 
 ## Get in touch
 
