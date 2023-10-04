@@ -32,25 +32,30 @@
 ![Compass](https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 
-
-
-## Explore my initial projects
-
-1. **User Interface Basis (HTML5, CSS3, Sass, Bootstrap)**
-
-- [Personal website](https://uib-final-project.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_UIB_final-project)
-- [Personal website (Bootstrap version)](https://uib-final-project-bootstrap-version.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_UIB_final-project-bootstrap)
- 
-2. **Programming Basics (HTML, CSS, Vanilla JavaScript):**
-
-- [VanillaTasks (To-Do-Application)](https://vanillatasks.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_PB_VanillaTasks)
-
-3. **Single Page Application (React):**
-
-- [Pomodofy (Pomodoro Technique Client-side Only SPA)](https://pomodofy.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_SPA_pomodofy)
+## Active project  
+- **InstantSplit (Full Stack MERN application)**
+- **Description**: MERN application designed for settling group expenses with a focus on functionality and minimal personal data collection, eliminating the need for personalized user registration & app installation.
+- **Status**: MVP deployed (03/10/2023).
+- [Access the application](https://instantsplit.netlify.app/)
+- [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 
 ## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:felix.schmidt@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixschmidt89/)
 [![Xing](https://img.shields.io/badge/Xing-%230068AD.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Felix_Schmidt083460)
+
+## Past initial projects
+
+3. **Single Page Application (React):**
+
+- [Pomodofy (Pomodoro Technique Client-side Only SPA)](https://pomodofy.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_SPA_pomodofy)
+2. **Programming Basics (HTML, CSS, Vanilla JavaScript):**
+
+- [VanillaTasks (To-Do-Application)](https://vanillatasks.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_PB_VanillaTasks)
+
+1. **User Interface Basis (HTML5, CSS3, Sass, Bootstrap)**
+
+- [Personal website](https://uib-final-project.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_UIB_final-project)
+- [Personal website (Bootstrap version)](https://uib-final-project-bootstrap-version.netlify.app/) // [GitHub repo](https://github.com/felixschmidt89/DCI_UIB_final-project-bootstrap)
+
