@@ -38,8 +38,8 @@
 - **Status**: MVP deployed (03/10/2023).
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 - **Demo**
-  - Access the application starting from scratch [here](https://wwww.instantsplit.de/)
-  - Alternatively, [join](https://www.instantsplit.de/join/DemoGroup%20(open%20for%20all)/S8GIKU) the DemoGroup with test data for a better immediate understanding of the application's main functionalities.
+  - Access the application starting from scratch [here](https://www.instantsplit.de/)
+  - Alternatively, [join](https://www.instantsplit.de/share-group/Italy%20Trip%20(Public%20Demo)/EOUEPI) the DemoGroup with test data for a better immediate understanding of the application's main functionalities.
 
 
 ## Get in touch
