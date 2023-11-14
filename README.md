@@ -36,9 +36,10 @@
 **InstantSplit (Full Stack MERN application)**
 - **Description**: MERN application designed for settling group expenses with a focus on functionality and minimal personal data collection, eliminating the need for personalized user registration & app installation.
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
+- **Application**
+  - Access the [application](https://www.instantsplit.de/): Create your own group, start adding users, expenses and settle payments.
 - **Demo**
-  - Access the application starting from scratch [here](https://www.instantsplit.de/)
-  - Alternatively, [join](https://www.instantsplit.de/join/Italy%20Trip%20(Public%20Demo)/EOUEPI) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to play around.
+  - Alternatively, [join](https://www.instantsplit.de/join/Italy%20Trip%20(Public%20Demo)/EOUEPI) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
 
 
 ## Get in touch
