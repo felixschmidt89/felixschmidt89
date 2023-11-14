@@ -33,12 +33,12 @@
 ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 
 ## Active project  
-- **InstantSplit (Full Stack MERN application)**
+**InstantSplit (Full Stack MERN application)**
 - **Description**: MERN application designed for settling group expenses with a focus on functionality and minimal personal data collection, eliminating the need for personalized user registration & app installation.
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 - **Demo**
   - Access the application starting from scratch [here](https://www.instantsplit.de/)
-  - Alternatively, [join](https://www.instantsplit.de/join/Italy%20Trip%20(Public%20Demo)/EOUEPI) a public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to play around.
+  - Alternatively, [join](https://www.instantsplit.de/join/Italy%20Trip%20(Public%20Demo)/EOUEPI) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to play around.
 
 
 ## Get in touch
