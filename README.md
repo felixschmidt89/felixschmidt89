@@ -32,15 +32,22 @@
 ![Compass](https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 
-## Active project  
+## Active solo project  
 **InstantSplit (Full Stack MERN application)**
 - **Description**: MERN application designed for settling group expenses with a focus on functionality and minimal personal data collection, eliminating the need for personalized user registration & app installation.
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
-- **Application**
-  - Access the [application](https://www.instantsplit.de/): Create your own group, start adding users, expenses and settle payments.
 - **Demo**
+  - Access the application [here](https://www.instantsplit.de/): Create your own group, start adding users, expenses and settle payments.
   - Alternatively, [join](https://www.instantsplit.de/join/Italy%20Trip%20(Public%20Demo)/EOUEPI) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
 
+## Past group project (final project at [DCI](https://digitalcareerinstitute.org/courses/web-development/)) 
+**Gatha - get togetha (Full Stack MERN application)**
+- **Description**: MERN stack group chat application utilizing socket.io, enabling bidirectional communication between clients and the server.
+- **Team size:** 3
+- **Role:** Frontend Lead Developer & Product Manager
+- **Code**: [GitHub repo](https://github.com/gatha-afly/gatha)
+- **Demo**
+  - Access the application [here](https://gatha.netlify.app/). Optionally, join the public demo group by entering group code 'YAZKQGRY' from within the application.
 
 ## Get in touch
 
