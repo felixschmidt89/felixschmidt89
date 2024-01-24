@@ -3,12 +3,9 @@
 # 👋 Hi, I’m @felixschmidt89 based in Berlin, Germany.
 
 ## About me
-
-- 👨🏻‍💻 I have a professional background in Product and am transitioning to Tech.
-- 🧑‍🏫 I'm currently enrolled in a 1-year-intensive course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) to become a Full-Stack Web Developer (MERN-Stack).
+I have a professional background in Product and am currently transitioning to Tech. I have recently completed a one-year intensive Full Stack (MERN) Web Development course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) and am actively seeking an entry-level Web Developer position, preferably in Berlin & in-office and with a React focus.
 
 ## Technologies
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,11 +31,11 @@
 
 ## Active solo project  
 **InstantSplit (Full Stack MERN application)**
-- **Description**: MERN application designed for settling group expenses with a focus on functionality and minimal personal data collection, eliminating the need for personalized user registration & app installation.
+- **Description**: User centered MERN application designed for settling group expenses with a focus on functionality and data privacy, eliminating the need for personalized user registration and app installation.
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 - **Demo**
   - Access the application [here](https://www.instantsplit.de/): Create your own group, start adding users, expenses and settle payments.
-  - Alternatively, [join](https://www.instantsplit.de/join/Italy%20Trip%20(Public%20Demo)/EOUEPI) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
+  - Alternatively, [join](https://instantsplit.de/join-instantsplit-group/Italy%20Trip%20GitHub%20Demo/UO99CWXD) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
 
 ## Past group project (final project at [DCI](https://digitalcareerinstitute.org/courses/web-development/)) 
 **Gatha - get togetha (Full Stack MERN application)**
@@ -53,7 +50,6 @@
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:felix.schmidt@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixschmidt89/)
-[![Xing](https://img.shields.io/badge/Xing-%230068AD.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Felix_Schmidt083460)
 
 ## Past initial projects
 
