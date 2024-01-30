@@ -3,7 +3,7 @@
 # 👋 Hi, I’m @felixschmidt89 based in Berlin, Germany.
 
 ## About me
-I have a professional background in Product and am currently transitioning to Tech. I have recently completed a one-year intensive Full Stack (MERN) Web Development course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) and am actively seeking an entry-level Web Developer position, preferably in Berlin & in-office and with a React focus.
+I have a professional background in Product and am currently transitioning to Tech. I'm about to complete a one-year intensive Full Stack (MERN) Web Development course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) and am actively seeking an entry-level Web Developer position, preferably in Berlin & in-office and with a React focus.
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,7 +31,8 @@ I have a professional background in Product and am currently transitioning to Te
 
 ## Active solo project  
 **InstantSplit (Full Stack MERN application)**
-- **Description**: User centered MERN application designed for settling group expenses with a focus on functionality and data privacy, eliminating the need for personalized user registration and app installation.
+- **Description**: MERN Full Stack application designed for settling group expenses with a focus on accessibility and minimal data collection, eliminating the need for personalized user registration or app installation and automatic data purge in case of prolonged user inactivity.
+
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 - **Demo**
   - Access the application [here](https://www.instantsplit.de/): Create your own group, start adding users, expenses and settle payments.
