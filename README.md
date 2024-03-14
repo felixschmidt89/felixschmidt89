@@ -51,7 +51,7 @@ I have a professional background in Product and am currently transitioning to Te
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 - **Demo**
   - Access the application [here](https://www.instantsplit.de/): Create your own group, start adding users, expenses and settle payments.
-  - Alternatively, [join](https://instantsplit.de/join-instantsplit-group/Italy%20Trip%20GitHub%20Demo/UO99CWXD) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
+  - Alternatively, [join](https://instantsplit.de/join-en-instantsplit-group/Italy%20Trip%20GitHub%20Demo/UO99CWXD) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
 
 ## Past group project (final project at [DCI](https://digitalcareerinstitute.org/courses/web-development/)) 
 **Gatha - get togetha (Full Stack (MERN) application)**
