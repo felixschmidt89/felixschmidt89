@@ -3,7 +3,7 @@
 # 👋 Hi, I’m @felixschmidt89 based in Berlin, Germany.
 
 ## About me
-I have a professional background in Product and am currently transitioning to Tech. I'm about to complete a one-year intensive Full Stack (MERN) Web Development course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) and am actively seeking an entry-level Web Developer position, preferably in Berlin & in-office and with a React focus.
+I have a professional background in Product and am currently transitioning to Tech. I have just completed a 14 month intensive Full Stack (MERN) Web Development course at [DCI](https://digitalcareerinstitute.org/courses/web-development/) and am actively seeking an entry-level Web Developer position, preferably in Berlin & in-office and with a React focus.
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,10 +14,24 @@ I have a professional background in Product and am currently transitioning to Te
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Libraries
+![Axios](https://img.shields.io/badge/Axios-61DAFB?style=for-the-badge&logo=axios&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![http-status-codes](https://img.shields.io/badge/http--status--codes-4285F4?style=for-the-badge)
+![React Helmet Async](https://img.shields.io/badge/React%20Helmet%20Async-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React i18next](https://img.shields.io/badge/React%20i18next-0FAAFF?style=for-the-badge&logo=i18next&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF73AF?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=nodemailer&logoColor=white)
+![node-cron](https://img.shields.io/badge/node--cron-F8C300?style=for-the-badge&logo=node.js&logoColor=white)
+![nanoid](https://img.shields.io/badge/nanoid-00D4FF?style=for-the-badge&logo=node.js&logoColor=white)
+![express-rate-limit](https://img.shields.io/badge/express--rate--limit-FF6D00?style=for-the-badge&logo=node.js&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-00BFFF?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## Tools
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -31,8 +45,8 @@ I have a professional background in Product and am currently transitioning to Te
 
 
 ## Active solo project  
-**InstantSplit (Full Stack MERN application)**
-- **Description**: MERN Full Stack application designed for settling group expenses with a focus on accessibility and minimal data collection, eliminating the need for personalized user registration or app installation and automatic data purge in case of prolonged user inactivity.
+**InstantSplit (Full Stack (MERN) PWA)**
+- **Description**: designed for settling group expenses with a focus on accessibility and minimal data collection, eliminating the need for personalized user registration or app installation and automatic data purge in case of prolonged user inactivity.
 
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 - **Demo**
@@ -40,7 +54,7 @@ I have a professional background in Product and am currently transitioning to Te
   - Alternatively, [join](https://instantsplit.de/join-instantsplit-group/Italy%20Trip%20GitHub%20Demo/UO99CWXD) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
 
 ## Past group project (final project at [DCI](https://digitalcareerinstitute.org/courses/web-development/)) 
-**Gatha - get togetha (Full Stack MERN application)**
+**Gatha - get togetha (Full Stack (MERN) application)**
 - **Description**: MERN stack group chat application utilizing socket.io, enabling bidirectional communication between clients and the server.
 - **Team size:** 3
 - **Role:** Frontend Lead Developer & Product Manager
