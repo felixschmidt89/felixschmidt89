@@ -17,7 +17,7 @@ React Developer with a professional background in Product.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Active project  
-**InstantSplit (Full Stack (MERN) PWA)**
+**InstantSplit PWA**
 - **Description**: designed for settling group expenses with a focus on accessibility and minimal data collection, eliminating the need for personalized user registration or app installation and automatic data purge in case of prolonged user inactivity.
 - **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
 - **Demo**
