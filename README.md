@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @felixschmidt89 based in Berlin, Germany.
 
 ## About me
-React Developer with a professional background in Product.
+Web Developer with a focus on React and a professional background in Product.
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
