@@ -19,14 +19,6 @@ Frontend Developer with a focus on React and a professional background in Produc
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Active project  
-**InstantSplit PWA**
-- **Description**: designed for settling group expenses with a focus on accessibility and minimal data collection, eliminating the need for personalized user registration or app installation and automatic data purge in case of prolonged user inactivity.
-- **Code**: [GitHub repo](https://github.com/felixschmidt89/InstantSpilt)
-- **Demo**
-  - Access the application [here](https://www.instantsplit.de/): Create your own group, start adding users, expenses and settle payments.
-  - Alternatively, [join](https://instantsplit.de/join-en-instantsplit-group/Italy%20Trip%20GitHub%20Demo/UO99CWXD) the public demo group with test data for a better immediate understanding of the application's main functionalities. Feel free to explore and add or amend test data.
-
 ## Get in touch
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:felix.schmidt@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixschmidt89/)
